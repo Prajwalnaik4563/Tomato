@@ -59,7 +59,6 @@ src
 5. Proceed to **Place Order**  
 6. Login popup can be triggered using the **Sign In** button  
 
-> ⚠️ Note: This project is frontend-only (no backend or payments yet)
 
 ---
 
