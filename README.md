@@ -28,6 +28,7 @@ Users can explore the menu, view special dishes, add items to the cart, and plac
 ---
 
 ## 📁 Project Structure
+```bash
 src
 ├── main.jsx
 ├── App.jsx
@@ -45,7 +46,7 @@ src
 ├── home
 ├── cart
 └── placeorder
-
+```
 
 ---
 
@@ -68,12 +69,17 @@ src
 ```bash
 git clone https://github.com/your-username/tomato-cafe.git
 cd tomato-cafe
+```
 
 2️⃣ Install dependencies
+```bash
 npm install
+```
 
 3️⃣ Start the development server
+```bash
 npm run dev
+```
 
 4️⃣ Open in browser
 http://localhost:5173/
