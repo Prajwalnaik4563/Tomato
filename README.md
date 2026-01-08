@@ -90,10 +90,10 @@ http://localhost:5173/
 ### 🏠 Home Page
 ![1](screenshot/Photo1.png)
 
-### 📋 Menu Page
+### 📋 Cart Page
 ![2](screenshot/Photo2.png)
 
-### 🛒 Cart Page
+### 🛒 Menu Page
 ![3](screenshot/Photo3.png)
 
 ### 📦 Place Order Page
